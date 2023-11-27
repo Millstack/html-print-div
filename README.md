@@ -1,6 +1,11 @@
 # html-print-div
 printing only selected div using only HTML and JavaScript
 
+`print`
+```
+<button id="btnPrint" onclick="printDiv('divPrinr');" class="p-3">Print</button>
+```
+
 `script` for printing on a new window
 ```
 <script>
